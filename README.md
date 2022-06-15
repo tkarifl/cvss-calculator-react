@@ -19,6 +19,6 @@ And a snackbar, when you select an option, a snackbar will be shown to notify yo
 Completed the first 2 steps: 
 <img width="1744" alt="Screen Shot 2022-06-15 at 15 23 07" src="https://user-images.githubusercontent.com/81488832/173833118-261b482b-36b2-4610-aef1-049381580de5.png">
 
-Score, after calculation: 
+Score, after completed all the steps: 
 <img width="1639" alt="Screen Shot 2022-06-15 at 15 54 46" src="https://user-images.githubusercontent.com/81488832/173833163-a4485acd-e50e-4be0-aafe-e9e927f5a81b.png">
 
