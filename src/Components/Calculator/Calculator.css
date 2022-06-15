@@ -1,0 +1,45 @@
+.stepper--button--group {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.stepper--content {
+    max-width: fit-content;
+    margin-top: 30px;
+}
+
+.stepper--reset--button {
+    float: right;
+}
+
+.MuiStepIcon-root.Mui-active {
+    color: #ff6000;
+}
+
+.MuiStepIcon-root.Mui-completed {
+    color: #ff6000;
+}
+
+.MuiAlert-standardSuccess {
+    background-color: rgba(237, 108, 2, 0.08)
+}
+
+.MuiSvgIcon-fontSizeInherit {
+    color: #ff6000;
+}
+
+.MuiAlert-message {
+    color: #4e4e4e;
+}
+
+.MuiSvgIcon-fontSizeSmall {
+    color: #4e4e4e;
+}
+
+.calculator--container {
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 5px;
+}

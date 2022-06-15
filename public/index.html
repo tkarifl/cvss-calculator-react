@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <meta name="description" content="Cvss calculator" />
+  <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+  <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+  <title>Cvss</title>
+  <style>
+    body {
+      margin: 0px;
+    }
+
+    .loader-icon {
+      animation: spin 1.5s linear infinite;
+      height: 20vmin;
+      margin: auto;
+    }
+
+    .loader-container {
+      background-color: rgb(47, 54, 64);
+      width: 100vw;
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    @keyframes spin {
+      0% {
+        transform: rotate(0deg) scale(1, 1);
+      }
+
+      50% {
+        transform: rotate(180deg) scale(1.2, 1.2);
+      }
+
+      100% {
+        transform: rotate(360deg) scale(1, 1);
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <noscript>You need to enable JavaScript to run this app.</noscript>
+  <div id="root">
+    <div class="loader-container">
+      <img src="%PUBLIC_URL%/logo512.png" class="loader-icon" alt="loader icon" />
+    </div>
+  </div>
+</body>
+
+</html>

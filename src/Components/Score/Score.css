@@ -1,0 +1,33 @@
+.score--container{
+    margin-bottom: 50px;
+    max-width: 1170px;
+}
+
+.score--text--critical {
+    color: #620000;
+}
+
+.score--text--high {
+    color: #CC0000;
+}
+
+.score--text--moderate {
+    color: #FF740A;
+}
+
+.score--text--low {
+    color: #004996;
+}
+
+.score--number {
+    font-size: 90px;
+    text-align: center;
+}
+.score--header{
+    font-size: 40px;
+    text-align: center;
+}
+.score--description{
+    margin-top: 10px;
+    font-size: 20px;
+}

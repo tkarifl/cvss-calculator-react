@@ -1,0 +1,10 @@
+.MuiButtonBase-root.MuiToggleButton-root.MuiToggleButton-sizeMedium {
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 2px solid #dcdcdc;
+    border-radius: 7px;
+}
+
+.MuiTooltip-tooltip {
+    font-size: 12px;
+}
